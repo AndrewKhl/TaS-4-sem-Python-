@@ -1,0 +1,6 @@
+recursive-include tracker *.txt
+recursive-include tracker/database *.txt
+recursive-include tracker/logger_output *.txt
+recursive-include command_line *.txt
+recursive-include command_line/database *.txt
+recursive-include command_line/logger_output *.txt

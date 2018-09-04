@@ -1,0 +1,8 @@
+build/
+dist/
+*idea/
+file.txt
+golog
+*.pyc
+venv/
+WTask.egg-info

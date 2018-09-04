@@ -1,0 +1,51 @@
+2018-06-23 15:06:41.093311 andrew User andrew was added how host to task N485
+2018-06-23 15:06:41.093810 kot User kot was added how admin to task N485
+2018-06-23 15:06:41.094524 andrew User andrew was added how host to task N452
+2018-06-23 15:06:41.094901 kot User kot was added how member to task N452
+2018-06-23 15:06:41.095483 andrew User andrew was added how host to task N244
+2018-06-23 15:06:41.095900 andrew Admin andrew was added to task N391
+2018-06-23 15:06:41.096157 andrew User andrew was added how host to task N391
+2018-06-23 15:06:41.102078 andrew User andrew was added how host to task N202
+2018-06-23 15:06:41.102779 andrew User andrew was added how host to task N394
+2018-06-23 15:06:41.103087 andrew Status task N394 was changed
+2018-06-23 15:06:41.103685 andrew User andrew was added how host to task N486
+2018-06-23 15:06:41.104042 andrew User andrew was added how host to task N18
+2018-06-23 15:06:41.104699 andrew Link between tasks N486 and N18 was created
+2018-06-23 15:06:41.104748 andrew Link between tasks N486 and N18 was created
+2018-06-23 15:06:41.110196 andrew User andrew was added how host to task N329
+2018-06-23 15:06:41.110707 andrew User andrew was added how host to task N468
+2018-06-23 15:06:41.111611 andrew Link between tasks N329 and N468 was created
+2018-06-23 15:06:41.111663 andrew Link between tasks N329 and N468 was created
+2018-06-23 15:06:41.113108 andrew User andrew was added how host to task N264
+2018-06-23 15:06:41.120693 andrew Task N264 was removed
+2018-06-23 15:06:41.123464 andrew User andrew was added how host to task N409
+2018-06-23 15:06:41.124337 andrew Admin andrew was added to task N404
+2018-06-23 15:06:41.130303 andrew User andrew was added how host to task N404
+2018-06-23 15:06:41.131626 andrew Task N404 was removed
+2018-06-23 15:06:41.146541 andrew User andrew was added how host to task N138
+2018-06-23 15:06:41.147292 andrew Admin andrew was added to task N361
+2018-06-23 15:06:41.148608 andrew User andrew was added how host to task N361
+2018-06-23 15:06:41.149566 andrew Admin andrew was added to task N53
+2018-06-23 15:06:41.149954 andrew User andrew was added how host to task N53
+2018-06-23 15:06:41.155637 andrew Task N361 was removed
+2018-06-23 15:06:41.158072 andrew Task N53 was removed
+2018-06-23 15:06:41.162399 andrew Task N138 was removed
+2018-06-23 15:06:41.164103 andrew User andrew was added how host to task N312
+2018-06-23 15:06:41.164585 kot User kot was added how admin to task N312
+2018-06-23 15:06:41.167570 kot User kot was removed how admin to task N312
+2018-06-23 15:06:41.170328 andrew User andrew was added how host to task N358
+2018-06-23 15:06:41.172240 kot User kot was added how admin to task N358
+2018-06-23 15:06:41.172873 kot User kot was removed how admin to task N358
+2018-06-23 15:06:41.177207 andrew User andrew was added how host to task N375
+2018-06-23 15:06:41.179947 kot User kot was added how member to task N375
+2018-06-23 15:06:41.180629 kot User kot was removed how member to task N375
+2018-06-23 15:06:41.186032 andrew User andrew was added how host to task N218
+2018-06-23 15:06:41.189487 kot User kot was added how member to task N218
+2018-06-23 15:06:41.190079 kot User kot was removed how member to task N218
+2018-06-23 15:06:41.191679 andrew User andrew was added how host to task N142
+2018-06-23 15:06:41.202206 andrew User andrew was added how host to task N499
+2018-06-23 15:06:41.202971 andrew User andrew was added how host to task N368
+2018-06-23 15:06:41.205157 andrew Link between tasks N499 and N368 was created
+2018-06-23 15:06:41.205211 andrew Link between tasks N499 and N368 was created
+2018-06-23 15:06:41.210481 andrew Link between tasks N499 and N368 was created
+2018-06-23 15:06:41.210536 andrew Link between tasks N499 and N368 was created

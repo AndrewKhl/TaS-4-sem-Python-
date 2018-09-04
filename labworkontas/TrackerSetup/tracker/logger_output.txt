@@ -1,0 +1,53 @@
+2018-06-23 15:06:41,093 - DEBUG - Task N485 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,093 - DEBUG - Added admin kot to task N485 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 240
+2018-06-23 15:06:41,094 - DEBUG - Task N452 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,094 - DEBUG - Added member kot to tree N452 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 268
+2018-06-23 15:06:41,095 - DEBUG - Task N244 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,095 - DEBUG - Task N391 was added how subtask to task N244 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 98
+2018-06-23 15:06:41,096 - DEBUG - Task N391 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,102 - DEBUG - Task N202 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,102 - DEBUG - Task N394 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,103 - DEBUG - Status task N394 was changed on ended - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 363
+2018-06-23 15:06:41,103 - DEBUG - Task N486 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,104 - DEBUG - Task N18 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,104 - DEBUG - Link between tasks N486 and N18 was created - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 159
+2018-06-23 15:06:41,109 - ERROR - Link between tasks N18 and N486 already exist - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 152
+2018-06-23 15:06:41,110 - DEBUG - Task N329 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,110 - DEBUG - Task N468 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,111 - DEBUG - Link between tasks N329 and N468 was created - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 159
+2018-06-23 15:06:41,113 - DEBUG - Task N264 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,120 - DEBUG - Task N264 was removed - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 403
+2018-06-23 15:06:41,123 - DEBUG - Task N409 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,129 - DEBUG - Task N404 was added how subtask to task N409 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 98
+2018-06-23 15:06:41,130 - DEBUG - Task N404 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,138 - DEBUG - Task N404 was removed - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 403
+2018-06-23 15:06:41,146 - DEBUG - Task N138 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,148 - DEBUG - Task N361 was added how subtask to task N138 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 98
+2018-06-23 15:06:41,148 - DEBUG - Task N361 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,149 - DEBUG - Task N53 was added how subtask to task N138 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 98
+2018-06-23 15:06:41,150 - DEBUG - Task N53 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,156 - DEBUG - Task N361 was removed - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 403
+2018-06-23 15:06:41,162 - DEBUG - Task N53 was removed - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 403
+2018-06-23 15:06:41,162 - DEBUG - Task N138 was removed - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 403
+2018-06-23 15:06:41,164 - DEBUG - Task N312 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,164 - DEBUG - Added admin kot to task N312 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 240
+2018-06-23 15:06:41,167 - DEBUG - Removed admin kot to task N312 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 295
+2018-06-23 15:06:41,170 - DEBUG - Task N358 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,170 - DEBUG - Added admin kot to task N358 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 240
+2018-06-23 15:06:41,172 - DEBUG - Removed admin kot to task N358 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 295
+2018-06-23 15:06:41,174 - ERROR - Admin kot not found in task N358 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 301
+2018-06-23 15:06:41,177 - DEBUG - Task N375 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,177 - DEBUG - Added member kot to tree N375 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 268
+2018-06-23 15:06:41,180 - DEBUG - Removed member kot to task N375 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 324
+2018-06-23 15:06:41,186 - DEBUG - Task N218 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,186 - DEBUG - Added member kot to tree N218 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 268
+2018-06-23 15:06:41,189 - DEBUG - Removed member kot to task N218 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 324
+2018-06-23 15:06:41,190 - ERROR - Member kot not found in task N218 - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 330
+2018-06-23 15:06:41,191 - DEBUG - Task N142 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,197 - ERROR - Task with number N1000 not found - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 121
+2018-06-23 15:06:41,200 - INFO - User andrew login the system - /home/andrew/LabWork/TrackerSetup/tracker/logger.py - 88
+2018-06-23 15:06:41,201 - ERROR - Task with number N1000 not found - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 121
+2018-06-23 15:06:41,202 - DEBUG - Task N499 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,203 - DEBUG - Task N368 was added to self.__storage - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 103
+2018-06-23 15:06:41,205 - DEBUG - Link between tasks N499 and N368 was created - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 159
+2018-06-23 15:06:41,210 - DEBUG - Link between tasks N499 and N368 was created - /home/andrew/LabWork/TrackerSetup/tracker/manager.py - 208
